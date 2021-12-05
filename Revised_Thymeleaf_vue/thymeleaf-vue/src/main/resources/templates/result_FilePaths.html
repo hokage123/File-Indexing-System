@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Process_This_Directory</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	 <link th:href="@{/bootstrap.css}" rel="stylesheet" />
+	<link th:href="@{/signin.css}" rel="stylesheet" />
+</head>
+
+
+<body class="text-center">
+<main>
+<h3>The results are :</h3>
+	<div id="result_text">
+		  <tr th:each="path : ${Files_List}">
+            <td th:text="${path}"></td>
+        </tr>
+	</div>
+</main>
+</body>
+</html>

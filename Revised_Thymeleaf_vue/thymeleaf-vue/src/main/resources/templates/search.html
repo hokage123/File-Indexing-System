@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Search_This_Directory</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	 <link th:href="@{/bootstrap.css}" rel="stylesheet" />
+	<link th:href="@{/signin.css}" rel="stylesheet" />
+</head>
+
+
+<body class="text-center">
+<main class="form-signin">
+    <form  action="#" th:action="@{/Indexing_Directory_System/Process_This_Directory/Options/search/keyword}"  method="post" id="MyForm">
+    <div class="form-group">
+    <label for="exampleInputEmail1">Search_In_Whole_Directory</label>
+    <input type="text" name="keyword" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter the Keyword" required>
+  </div>
+  <button type="submit" class="btn btn-primary" id="submit">Submit</button>
+	</form>	
+</main>
+<script type="text/javascript" th:src="@{/checker.js}"></script>
+</body>
+</html>

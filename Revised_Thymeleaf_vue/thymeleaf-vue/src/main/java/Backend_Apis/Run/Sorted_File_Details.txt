@@ -1,0 +1,35 @@
+{filepath	filename	size	number_Of_Lines	number_Of_Words}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\view	view	0	0	1}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\XSMDESC.DAT	XSMDESC.DAT	10	1	3}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\NEXTNAME.DAT	NEXTNAME.DAT	20	1	10}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\all.js	all.js	29370	1	8720}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\10th.DAT	10th.DAT	20	1	10}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\Searched_Keyword.txt	Searched_Keyword.txt	140	2	32}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\ads.html	ads.html	18370	2	9862}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\Published_Directory_Stats.txt	Published_Directory_Stats.txt	3290	33	1379}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\11.jpg	11.jpg	29390	120	23583}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0034.jpg	IMG-20201123-WA0034.jpg	67030	304	54003}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0031.jpg	IMG-20201123-WA0031.jpg	86740	313	69640}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0033.jpg	IMG-20201123-WA0033.jpg	59710	344	47700}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0023.jpg	IMG-20201123-WA0023.jpg	86890	351	68950}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0027.jpg	IMG-20201123-WA0027.jpg	69720	376	55498}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0030.jpg	IMG-20201123-WA0030.jpg	97810	397	78464}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0032.jpg	IMG-20201123-WA0032.jpg	90210	412	72454}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0041.jpg	IMG-20201123-WA0041.jpg	96270	435	76705}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0038.jpg	IMG-20201123-WA0038.jpg	99560	444	79219}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0026.jpg	IMG-20201123-WA0026.jpg	96880	453	77142}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0025.jpg	IMG-20201123-WA0025.jpg	105400	486	83613}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10.png	10.png	188850	490	155710}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0039.jpg	IMG-20201123-WA0039.jpg	114260	495	91732}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0024.jpg	IMG-20201123-WA0024.jpg	108340	497	86254}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0036.jpg	IMG-20201123-WA0036.jpg	105500	509	83620}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0035.jpg	IMG-20201123-WA0035.jpg	111920	516	88971}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0037.jpg	IMG-20201123-WA0037.jpg	109270	533	87126}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0042.jpg	IMG-20201123-WA0042.jpg	122090	552	96749}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0029.jpg	IMG-20201123-WA0029.jpg	115850	556	91682}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0028.jpg	IMG-20201123-WA0028.jpg	131570	580	104463}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0040.jpg	IMG-20201123-WA0040.jpg	126080	614	100277}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\ipate.pdf	ipate.pdf	122120	623	95971}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\9.png	9.png	220520	973	176496}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\preeti2.pdf	preeti2.pdf	776920	3338	618979}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\00000001.jpg	00000001.jpg	3361070	10645	2642184}

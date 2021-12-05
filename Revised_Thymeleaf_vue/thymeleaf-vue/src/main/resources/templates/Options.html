@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Options_For_Current_Directory</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <link th:href="@{/bootstrap.css}" rel="stylesheet" />
+	<link th:href="@{/signin.css}" rel="stylesheet" />
+</head>
+<body class="text-center">
+	<main class="form-signin">
+    <form action="#" th:action="@{/Indexing_Directory_System/Process_This_Directory/Options}"  method="post" id="MyForm">
+        
+			<div class="form-group">
+				<input type="radio" name="options_for_directory" value="1" required>
+				<label>Directory_Stats</label><br>
+				<input type="radio" name="options_for_directory" value="2" required>
+				<label>Sort_By_Size</label><br>
+				<input type="radio" name="options_for_directory" value="3" required>
+				<label>Sort_By_FileName</label><br>
+				<input type="radio" name="options_for_directory" value="4" required>
+				<label>Sort_By_Number_Of_Lines</label><br>
+				<input type="radio" name="options_for_directory" value="5" required>
+				<label>Sort_By_Number_Of_Words</label><br>
+				<input type="radio" name="options_for_directory" value="6" required>
+				<label>Search_Options</label><br>
+				<button type="submit" class="btn btn-primary" id="submit">Submit</button>
+			</div>
+    </form>
+	</main>
+	<script type="text/javascript" th:src="@{/checker.js}"></script>
+</body>
+</html>

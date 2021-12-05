@@ -1,0 +1,3 @@
+{filepath	total_Number_Of_Token_In_Current_File}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\ads.html	1}
+total_Number_Of_This_Token=1

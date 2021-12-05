@@ -1,0 +1,36 @@
+{filepath	number_Of_Lines	number_Of_Words	size}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0024.jpg	497	86254	108340}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\preeti2.pdf	3338	618979	776920}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0037.jpg	533	87126	109270}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\XSMDESC.DAT	1	3	10}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\11.jpg	120	23583	29390}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0032.jpg	412	72454	90210}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0041.jpg	435	76705	96270}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0028.jpg	580	104463	131570}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\Sorted_File_Details.txt	35	1797	4110}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0034.jpg	304	54003	67030}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0038.jpg	444	79219	99560}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0025.jpg	486	83613	105400}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0033.jpg	344	47700	59710}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\NEXTNAME.DAT	1	10	20}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10.png	490	155710	188850}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0029.jpg	556	91682	115850}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0042.jpg	552	96749	122090}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\00000001.jpg	10645	2642184	3361070}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0035.jpg	516	88971	111920}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0030.jpg	397	78464	97810}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\Searched_Keyword.txt	2	32	140}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\view	0	1	0}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\9.png	973	176496	220520}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0026.jpg	453	77142	96880}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\all.js	1	8720	29370}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0023.jpg	351	68950	86890}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\ipate.pdf	623	95971	122120}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0039.jpg	495	91732	114260}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\ads.html	2	9862	18370}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0036.jpg	509	83620	105500}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\10th.XSM\10th.DAT	1	10	20}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0031.jpg	313	69640	86740}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0027.jpg	376	55498	69720}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\yash assignment\assignment-2\IMG-20201123-WA0040.jpg	614	100277	126080}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Run\Published_Directory_Stats.txt	36	1469	3550}

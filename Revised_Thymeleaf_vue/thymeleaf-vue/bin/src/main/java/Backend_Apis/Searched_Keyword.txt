@@ -1,0 +1,4 @@
+{filepath	total_Number_Of_Token_In_Current_File}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Main_Thread.class	2}
+{C:\Users\ankit\Desktop\My_Java_Training_7\Main_Thread.java	9}
+total_Number_Of_This_Token=11
